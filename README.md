@@ -6,7 +6,7 @@ After download the repo, run the following line on the terminal to install depen
 npm install
 ```
 
-This app is using MLab as database, it is necessary to edit the file server.js line 7 with your own info
+This app is using mLab as database, it is necessary to edit the file server.js line 7 with your own info
 
 
 # Examen Mercadolibre
