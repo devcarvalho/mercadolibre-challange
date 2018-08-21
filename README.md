@@ -1,3 +1,11 @@
+# Observations
+
+After download the repo, run the following line on terminal to install dependencies:
+
+```
+npm install
+```
+
 # Examen Mercadolibre
 
 Magneto quiere reclutar la mayor cantidad de mutantes para poder luchar
