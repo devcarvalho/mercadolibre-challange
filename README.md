@@ -1,6 +1,6 @@
 # Observations
 
-After download the repo, run the following line on terminal to install dependencies:
+After download the repo, run the following line on the terminal to install dependencies:
 
 ```
 npm install
