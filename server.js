@@ -4,7 +4,7 @@ const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
 
 mongoose
-    .connect('mongodb://filipe:Tricolor151213@ds125892.mlab.com:25892/exame')
+    .connect('mongodb://<yourusername>:<yourpassword>.mlab.com:25892/<yourdbname>')
     .then(() => console.log(`Database connected`))
     .catch(err => console.log(err))
 
